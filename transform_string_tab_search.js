@@ -1,3 +1,5 @@
+
+   // ver 0.0
 function transform_string_tab_search(s, v){
   var tab = s.split(", ");   // criteria pour creer le tableau
   var nbre = 0;
